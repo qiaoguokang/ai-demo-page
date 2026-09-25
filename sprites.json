@@ -1,0 +1,102 @@
+[
+  {
+    "name": "boy-0",
+    "width": 262,
+    "height": 381
+  },
+  {
+    "name": "boy-1",
+    "width": 215,
+    "height": 384
+  },
+  {
+    "name": "boy-2",
+    "width": 259,
+    "height": 304
+  },
+  {
+    "name": "boy-3",
+    "width": 307,
+    "height": 293
+  },
+  {
+    "name": "boy-4",
+    "width": 132,
+    "height": 402
+  },
+  {
+    "name": "boy-5",
+    "width": 204,
+    "height": 400
+  },
+  {
+    "name": "boy-6",
+    "width": 391,
+    "height": 192
+  },
+  {
+    "name": "boy-7",
+    "width": 228,
+    "height": 310
+  },
+  {
+    "name": "dragon-0",
+    "width": 317,
+    "height": 257
+  },
+  {
+    "name": "dragon-1",
+    "width": 382,
+    "height": 295
+  },
+  {
+    "name": "dragon-2",
+    "width": 377,
+    "height": 237
+  },
+  {
+    "name": "dragon-3",
+    "width": 355,
+    "height": 315
+  },
+  {
+    "name": "dragon-4",
+    "width": 406,
+    "height": 308
+  },
+  {
+    "name": "dragon-5",
+    "width": 399,
+    "height": 264
+  },
+  {
+    "name": "dragon-6",
+    "width": 406,
+    "height": 321
+  },
+  {
+    "name": "dragon-7",
+    "width": 416,
+    "height": 334
+  },
+  {
+    "name": "dragon-8",
+    "width": 394,
+    "height": 244
+  },
+  {
+    "name": "crow-0",
+    "width": 598,
+    "height": 526
+  },
+  {
+    "name": "crow-1",
+    "width": 602,
+    "height": 293
+  },
+  {
+    "name": "crow-2",
+    "width": 630,
+    "height": 350
+  }
+]
