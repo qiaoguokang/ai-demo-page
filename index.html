@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>林间有龙 · 一段同行的旅程</title><meta name="description" content="用指尖跨过森林，与小黑龙一起长大，学会告别。"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%232b4546'/%3E%3Cpath d='M7 22Q9 7 25 7Q23 24 7 22' fill='%23b7dfb8'/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css"></head><body>
+<main id="stage" aria-label="林间有龙游戏"><canvas id="scene" width="1280" height="720" aria-label="向上划跳跃，向下划滑行，点击小龙飞越裂谷"></canvas>
+<div class="top"><span id="chapter">林间有龙<span class="small">一段同行的旅程</span></span><div class="tools"><button id="sound" aria-label="打开声音" title="声音">音 ♪</button><button id="pause" aria-label="暂停" title="暂停">Ⅱ</button></div></div>
+<div id="hint" role="status" aria-live="polite"></div><div id="caption"></div>
+<button id="companion" aria-label="呼唤小黑龙"><span id="ring"></span><canvas id="portrait" width="100" height="100"></canvas><span id="companionLabel">与你同行</span></button>
+<section id="cover"><div class="eyebrow">FOREST / A LITTLE DRAGON</div><h1>林间有龙</h1><p class="intro">穿过森林，和你一起长大。</p><button id="start" disabled>正在唤醒森林…</button><p class="controls">上划跃起 · 下划滑行 · 轻触小龙，一起飞翔</p><p class="keys">键盘 ↑ / ↓ / F　约三分钟的旅程</p></section>
+<section id="pauseCover" hidden><h2>在林间歇一会儿</h2><button id="resume">继续旅程</button></section>
+<section id="endCover" hidden><span class="eyebrow">THE FOREST REMEMBERS</span><h2>林间有龙</h2><p>有些同行，留在了风里。</p><button id="replay">再走一遍</button></section>
+<div id="rotate">横过手机，森林会更宽阔。<small>建议横屏体验</small></div>
+</main><script src="assets/branch-profile.js"></script><script src="engine.js"></script><script src="music.js"></script><script src="motion.js"></script><script src="environment.js"></script><script src="riding.js"></script><script src="game.js"></script></body></html>
